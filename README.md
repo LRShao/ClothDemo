@@ -6,6 +6,8 @@ It uses mass-spring model with three kind of springs to model cloth, and three k
 
 Below are some stable results obtained by adjusting parameters.
 
+## 20 x 20, Lambertian Shading
 ![](./animation2.gif "Lambertian Shading")
 
+## 10 x 10, Default Rendering
 ![](./animation.gif "Mass-Spring View")
