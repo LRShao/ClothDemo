@@ -317,7 +317,7 @@ void simulation_step( std::vector<Particle*> pVector, std::vector<NonconstraintF
 	else if ( mode == "RK4")
 		runge_kutta4_method( pVector, pNonconstraintForceVector, dt );
 	else
-		std::cout << "No matching intergration mode!";	
+		std::cout << "No matching integration mode!";	
 }
 
 
