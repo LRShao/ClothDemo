@@ -2,7 +2,7 @@
 
 This is a simple cloth simulation demo running on linux. Skeleton code is obtained from http://www.cs.cmu.edu/~15869-f10/ as part of project 1 assignment.
 
-It uses mass-spring model with three kinds of springs to model cloth, and can switch between three kinds of explicit R-K integrator to solve the ODE.
+It uses mass-spring model with three kinds of springs to model cloth, and can switch between three kinds of explicit R-K integrators to solve the ODE.
 
 Below are some stable results obtained by adjusting parameters.
 
